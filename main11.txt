@@ -1,0 +1,5 @@
+/********** Slider CSS Starts **********/  
+.slider img {
+     width:100%;
+}
+/********** Slider CSS Ends **********/
